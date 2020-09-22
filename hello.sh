@@ -1,3 +1,5 @@
 #!/bin/bash
 
-echo "Hello Sachin"
+read -p "Enter Your Name : " name;
+
+echo "Hello $name"
